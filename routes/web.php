@@ -6,7 +6,7 @@ use App\Http\Controllers\CaptchaController;
 use App\Http\Controllers\QRCodeController;
 
 Route::get('/', function () {
-    return view('index');
+    return view('home');
 });
 
 Route::get('/dashboard', function () {

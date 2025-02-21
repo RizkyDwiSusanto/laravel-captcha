@@ -1,7 +1,11 @@
 <style>
-    img {
-        width: 150px;
+    h1 {
+        font-size: 32px;
+        font-weight: bold;
+        font-family: "Raleway",  sans-serif;
+    }
+    span {
+        color: #ffc451;
     }
 </style>
-
-<img src="{{ asset('image/logo-light.png')}}" alt="">
+<h1 class="sitename">RZ <span>.</span></h1>
