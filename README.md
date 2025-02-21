@@ -39,13 +39,13 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 Clone the project using the following command:
 
 ```sh
-git clone https://github.com/cgirl12/laravel-captcha-melda.git
+git clone https://github.com/cgirl12/laravel-captcha.git
 ```
 
 ### 2. Navigate to Project Directory
 
 ```sh
-cd laravel-captcha-melda
+cd laravel-captcha
 ```
 
 ### 3. Install Dependencies
@@ -76,7 +76,7 @@ Edit the `.env` file and update the database settings:
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=uas-kripto
+DB_DATABASE=qrcode
 DB_USERNAME=root
 DB_PASSWORD=
 ```
@@ -96,13 +96,10 @@ The application will be available at `http://127.0.0.1:8000/`.
 
 ## 🚀Preview
 
-![Screenshot 2025-02-19 123922](https://github.com/user-attachments/assets/41a72710-fced-4691-9062-849eeb4fee74)
+![Screenshot 2025-02-21 120925](https://github.com/user-attachments/assets/07c7e26e-e220-4d91-adb1-e593e8ab257f)
 
-![Screenshot 2025-02-19 123944](https://github.com/user-attachments/assets/e32fdbba-b5bd-4b17-9bf3-099fd038b36c)
+![Screenshot 2025-02-21 121055](https://github.com/user-attachments/assets/0cafe50c-169f-4b4f-82ca-367e1e242208)
 
-![Screenshot 2025-02-19 124254](https://github.com/user-attachments/assets/032837e1-2682-42b1-9d20-e3fb8caf376c)
+![Screenshot 2025-02-21 121105](https://github.com/user-attachments/assets/d1122789-1856-40d1-96a2-6208471ca783)
 
-![Screenshot 2025-02-19 124334](https://github.com/user-attachments/assets/0cab9106-a5b3-4c26-8a72-80948011dee9)
-
-![Screenshot 2025-02-19 124419](https://github.com/user-attachments/assets/02314528-2498-4fc4-b2df-2468922d20f0)
 
